@@ -11,3 +11,6 @@ use ```tsc --init``` -> _to setup tsconfig.json_
 use ```tsc``` -> _for compiling typescript to js_
 
 ```node generated_file.js``` - _to run js file_
+
+
+ref: https://www.youtube.com/watch?v=3qBXWUpoPHo
